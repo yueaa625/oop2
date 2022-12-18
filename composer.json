@@ -1,0 +1,17 @@
+{
+    "name": "jojo2/oop2",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jojo2\\Oop2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jojo",
+            "email": "jojo@163.com"
+        }
+    ],
+    "require": {}
+}
